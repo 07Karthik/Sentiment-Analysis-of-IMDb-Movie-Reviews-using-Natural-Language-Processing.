@@ -1,4 +1,4 @@
-# Sentiment-Analysis-of-IMDb-Movie-Reviews-using-Natural-Language-Processing.
+# Sentiment-Analysis-of-IMDb-Movie-Reviews-using-Word2Vec.
 
 this project, aims to perform sentiment analysis on a dataset of IMDb movie reviews. Sentiment analysis is a natural language processing (NLP) task that involves determining the sentiment or emotional tone expressed in a piece of text, such as positive, negative, or neutral. The IMDb movie review dataset contains a collection of text-based movie reviews, and our goal is to automatically classify them into positive and negative sentiment categories.
 
